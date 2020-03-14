@@ -10,4 +10,7 @@
 \<instagram-user-name\>换成需要下载的用户名即可
 
 igsave.win64.exe windows64下使用
+
 igsave.linux linux下使用
+
+自用工具 不开放源码不维护
