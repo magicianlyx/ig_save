@@ -2,7 +2,7 @@
 
 ### 批量下载instagram用户图片视频工具
 
-因为国内防火墙的原，需要使用命令行设置http代理 export http_proxy "http://<ip>:<port>"
+因为国内防火墙的原，需要使用命令行设置http代理 export http_proxy "http://\<ip\>:\<port\>"
 
 使用命令行
 ./igsave.win64 --user=\<instagram-user-name\>
